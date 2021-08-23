@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">El Paisano Mateus</string>
+    <string name="steakhouse_name">El paisano Mateus</string>
+    <string name="next_button">Siguiente</string>
+    <string name="table">Mesa:</string>
+    <string name="waiter">Mesero:</string>
+    <string name="waiters_management_button">Meseros</string>
+    <string name="add_button">+</string>
+    <string name="subtract_button">-</string>
+    <string name="half_meat">Medias</string>
+    <string name="portion_meat">Porción</string>
+    <string name="chopped_meat">Picada</string>
+    <string name="mixed">Mixta</string>
+    <string name="beef">Res</string>
+    <string name="veal">Ternera</string>
+    <string name="chigüiro">Chigüiro</string>
+    <string name="beefChigüiro">Res / Chigüiro</string>
+    <string name="beefVeal">Res / Ternera</string>
+    <string name="vealChigüiro">Ternera / Chigüiro</string>
+    <string name="zero">0</string>
+    <string name="twenty_five">25</string>
+    <string name="thirty">30</string>
+    <string name="thirty_five">35</string>
+    <string name="fourty">40</string>
+</resources>
