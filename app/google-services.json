@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "346736869587",
+    "project_id": "el-paisano-mateus",
+    "storage_bucket": "el-paisano-mateus.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:346736869587:android:caf7f611c6947912b55426",
+        "android_client_info": {
+          "package_name": "com.example.elpaisanomateus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "346736869587-daji8ddetdm91jf6n260vshd9logh51o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaVVLxXhA7V0rCmdLr8--CBtVF6uPZ6HA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "346736869587-daji8ddetdm91jf6n260vshd9logh51o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
