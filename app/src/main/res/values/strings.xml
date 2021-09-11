@@ -22,4 +22,6 @@
     <string name="thirty">30</string>
     <string name="thirty_five">35</string>
     <string name="fourty">40</string>
+    <string name="delete_waiter_button">Eliminar</string>
+    <string name="add_waiter_button">Agregar</string>
 </resources>
