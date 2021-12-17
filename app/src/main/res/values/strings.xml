@@ -1,15 +1,17 @@
 <resources>
     <string name="app_name">El Paisano Mateus</string>
-    <string name="steakhouse_name">El paisano Mateus</string>
-    <string name="next_button">Siguiente</string>
+    <string name="steakhouse_name">El Paisano Mateus</string>
+
     <string name="table">Mesa:</string>
     <string name="waiter">Mesero:</string>
-    <string name="waiters_management_button">Meseros</string>
-    <string name="add_button">+</string>
-    <string name="subtract_button">-</string>
+
+    <string name="waiters">Meseros</string>
+    <string name="foods">Comidas</string>
+
     <string name="half_meat">Medias</string>
     <string name="portion_meat">Porción</string>
     <string name="chopped_meat">Picada</string>
+
     <string name="mixed">Mixta</string>
     <string name="beef">Res</string>
     <string name="veal">Ternera</string>
@@ -17,11 +19,24 @@
     <string name="beefChigüiro">Res / Chigüiro</string>
     <string name="beefVeal">Res / Ternera</string>
     <string name="vealChigüiro">Ternera / Chigüiro</string>
+
     <string name="zero">0</string>
     <string name="twenty_five">25</string>
     <string name="thirty">30</string>
     <string name="thirty_five">35</string>
     <string name="fourty">40</string>
+
+    <string name="next_button">Siguiente</string>
     <string name="delete_waiter_button">Eliminar</string>
     <string name="add_waiter_button">Agregar</string>
+    <string name="add_button">+</string>
+    <string name="subtract_button">-</string>
+
+    <string name="upload_image">Cargar foto</string>
+    <string name="name">NOMBRE: </string>
+
+    <string name="waiter_image_description">Imagen del mesero que se esta aregando</string>
+    <string name="camera_image_description">Imagen con forma de cámara para indicar que si se oprime accedera a la camara</string>
+    <string name="gallery_image_description">Imagen con forma de galería para indicar que si se oprime accedera a la galeria</string>
+    <string name="user_image_description">Imagen predeterminada del mesero</string>
 </resources>

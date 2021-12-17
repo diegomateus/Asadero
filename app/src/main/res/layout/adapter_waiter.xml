@@ -8,32 +8,37 @@
     android:orientation="horizontal">
 
     <ImageView
-        android:layout_gravity="center"
-        android:id="@+id/imageView"
+        android:paddingTop="8dp"
+        android:paddingBottom="8dp"
+        android:id="@+id/imageViewWaiter"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
-        android:layout_weight="0.3"
-        tools:srcCompat="@tools:sample/avatars" />
+        android:layout_gravity="center"
+        android:layout_weight="0.5"
+        app:srcCompat="@drawable/user"
+        android:contentDescription="@string/user_image_description" />
 
     <LinearLayout
         android:layout_width="0dp"
         android:layout_height="match_parent"
-        android:layout_weight="0.7"
+        android:layout_weight="0.6"
         android:orientation="vertical">
 
         <TextView
-            android:id="@+id/textView"
+            android:id="@+id/textViewName"
             android:layout_width="match_parent"
             android:layout_height="0dp"
             android:layout_weight="0.5"
             android:gravity="center"
-            android:textSize="38sp"
-            android:text="TextView" />
+            android:textSize="36sp"
+            android:text=""
+            tools:ignore="NestedWeights" />
 
         <Button
             android:layout_gravity="center"
-            android:id="@+id/chopped25SubtractButton"
-            android:layout_width="match_parent"
+            android:gravity="center"
+            android:id="@+id/eliminateWaiterButton"
+            android:layout_width="wrap_content"
             android:layout_height="0dp"
             android:layout_weight="0.5"
             android:textSize="28sp"

@@ -3,9 +3,9 @@ package bussiness;
 public class Waiter {
 
     private String name;
-    private Long sells;
+    private long sells;
 
-    public Waiter(String name, Long sells) {
+    public Waiter(String name, long sells) {
         this.name = name;
         this.sells = sells;
     }
@@ -21,11 +21,16 @@ public class Waiter {
         this.name = name;
     }
 
-    public Long getSells() {
+    public long getSells() {
         return sells;
     }
 
-    public void setSells(Long sells) {
+    public void setSells(long sells) {
         this.sells = sells;
+    }
+
+    @Override
+    public String toString() {
+        return this.name;
     }
 }
